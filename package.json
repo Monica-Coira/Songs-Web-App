@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.11.8",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0",
+    "mongoose": "^8.8.0",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5"
+  },
+  "name": "songs-web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
